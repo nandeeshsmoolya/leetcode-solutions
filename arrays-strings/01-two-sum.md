@@ -9,6 +9,8 @@ Given an array of integers and a target value, return the indices of the two num
 Input: nums = [2,7,11,15], target = 9
 Output: [0,1]
 
+![Two Sum Result](01-two-sum-result-png.png)
+
 ## Approach
 
 - Use a hash map to store seen values and their indices.

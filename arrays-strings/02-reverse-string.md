@@ -2,6 +2,8 @@
 
 **Link:** https://leetcode.com/problems/reverse-string/
 
+![Reverse String Result](02-reverse-string-result-png.png)
+
 ### Approach
 
 Use two pointers:
